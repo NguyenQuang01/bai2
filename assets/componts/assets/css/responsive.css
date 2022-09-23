@@ -1,0 +1,21 @@
+@media ( max-width: 739px ){
+    #header{
+        background-color: blanchedalmond;
+    }
+}
+@media ( min-width:739px) and (max-width:1024px) {
+    .col-7{
+        display: none;
+    }
+    .col-4{
+        display: block;
+    }
+    .slick-img-size{
+        width: 100px;
+        height: 130px;
+    }
+    .styles__StyledDynamicIconBadge-sc-cxexs7-0{
+        width: 100px;
+        border-radius: 5px 0 0 0;
+    }
+}

@@ -1,0 +1,9 @@
+:root{
+    --header-height:100px;
+    --bar-height:70px;
+    --text-color:#fff
+    
+}
+.row{
+    width: 100%;
+}
